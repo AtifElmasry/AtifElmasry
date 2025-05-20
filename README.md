@@ -13,7 +13,7 @@ I bring together analytical thinking, visualization skills, and a strong technic
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tioatifelmasry/)  
-[🔗 Notion Portfolio](https://www.notion.so/Hey-there-I-am-Atif-1f3c40f7655e80d5b4f1dec9c016cadb)
+📄 [Portfolio Website (Notion)](https://www.notion.so/Hey-there-I-am-Atif-1f3c40f7655e80d5b4f1dec9c016cadb)
 
 ---
 
@@ -41,13 +41,6 @@ I bring together analytical thinking, visualization skills, and a strong technic
 
 ---
 
-### 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifElmasry&layout=compact&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtifElmasry&show_icons=true&theme=react)
-
----
-
 ### 🔍 Featured Projects
 
 Here are a few projects that showcase my work in data analytics, machine learning, and scientific research:
@@ -67,9 +60,16 @@ Here are a few projects that showcase my work in data analytics, machine learnin
 - 🐾 **[Manhattan Zoo Meal Planner](https://github.com/AtifElmasry/Manhattan-Zoo)**  
   Designed dietary guidelines for zoo animals based on species, weight, and feeding frequency. Demonstrated data handling and rule-based logic in R.
 
+---
+
+### 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifElmasry&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtifElmasry&show_icons=true&theme=react)
 
 ---
 
 ### 💬 Random Dev Quote
 
-> "Getting numbers is easy. Getting numbers you can trust is hard." – Inspired by Edward Tufte
+> “Getting numbers is easy. Getting numbers you can trust is hard.”  
+> — Inspired by Edward Tufte
