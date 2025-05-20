@@ -67,6 +67,10 @@ Here are a few projects that showcase my work in data analytics, machine learnin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifElmasry&layout=compact&theme=react)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtifElmasry&show_icons=true&theme=react)
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AtifElmasry&theme=darkhub&rank=AA,AB,B,C&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 💬 Random Dev Quote
