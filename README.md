@@ -50,27 +50,26 @@ I bring together analytical thinking, visualization skills, and a strong technic
 
 ### 🔍 Featured Projects
 
-Here are a few projects that showcase my work:
+Here are a few projects that showcase my work in data analytics, machine learning, and scientific research:
 
-- 📊 **[Synthetic Stock Market Analysis](https://github.com/AtifElmasry/Time-Series-Forecasting-and-Analysis-of-US-Financial-Markets)**  
-  Applied time series forecasting techniques to synthetic stock data. Used Python, Pandas, and ARIMA models to detect trends and simulate trading strategies.
+- 📈 **[Time Series Forecasting & Analysis of US Financial Markets](https://github.com/AtifElmasry/Time-Series-Forecasting-and-Analysis-of-US-Financial-Markets)**  
+  Analyzed synthetic stock data using autocorrelation, feature correlations, and stationarity testing. Built forecasting models and visualized patterns using Python and Jupyter.
 
-- 🏙️ **[German Airbnb Market Analysis](https://github.com/AtifElmasry/berlin_airbnb_market_analysis)**  
-  Cleaned and analyzed Berlin Airbnb data to uncover pricing dynamics and high-demand neighborhoods. Used Pandas, Seaborn, and mapping tools to visualize insights.
+- 🔁 **[Customer Churn Analysis](https://github.com/AtifElmasry/customer_churn_data)**  
+  Explored customer churn behavior through EDA, segmentation, and machine learning (Random Forest). Delivered actionable insights with Python visualizations.
 
-- 📉 **[COVID-19 Economic Impact Analysis](https://github.com/AtifElmasry/COVID19-Business-Impact-Analysis)**  
-  Investigated the effect of the pandemic on various sectors using open datasets. Built visual dashboards with Plotly and Jupyter to highlight trends.
+- 🏔️ **[Isotope-Elevation Analysis](https://github.com/AtifElmasry/isotope-elevation-analysis)**  
+  Investigated the relationship between oxygen isotope values (δ¹⁸O) and elevation using regression models in R. Applied slope correction and residual diagnostics for paleoclimate insight.
 
-- 🧠 **[AI-Powered Study Buddy](https://github.com/AtifElmasry/study-buddy-ai)**  
-  Developed a chatbot that assists with studying using OpenAI's API and Streamlit. Focused on user input processing, topic summarization, and real-time feedback.
+- 🤖 **[Snap-Fit Robots Assembly Guide](https://github.com/AtifElmasry/snapfit-robots-assembly)**  
+  Created reproducible, step-by-step assembly documentation for robot kits. Practiced technical writing and instructional design using structured R Markdown.
 
-- 🏗️ **[Designing a PostgreSQL Database](https://github.com/AtifElmasry/designing-a-database-from-scratch)**  
-  Created a normalized relational database from scratch using PostgreSQL. Included schema design, relationships, and sample queries for a book rental system.
-
+- 🐾 **[Manhattan Zoo Meal Planner](https://github.com/AtifElmasry/Manhattan-Zoo)**  
+  Designed dietary guidelines for zoo animals based on species, weight, and feeding frequency. Demonstrated data handling and rule-based logic in R.
 
 
 ---
 
 ### 💬 Random Dev Quote
 
-> "Data beats emotions." – Sean Rad  
+> "Getting numbers is easy. Getting numbers you can trust is hard." – Inspired by Edward Tufte
