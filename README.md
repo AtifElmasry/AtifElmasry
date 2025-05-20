@@ -52,17 +52,22 @@ I bring together analytical thinking, visualization skills, and a strong technic
 
 Here are a few projects that showcase my work:
 
-- 🧘 **[Yoga Pose Recognition Using CNNs](https://github.com/AtifElmasry/Yoga-Pose-Recognition-Using-CNNs)**  
-  *Applied deep learning to detect yoga poses from image data.*
+- 📊 **[Synthetic Stock Market Analysis](https://github.com/AtifElmasry/Time-Series-Forecasting-and-Analysis-of-US-Financial-Markets)**  
+  Applied time series forecasting techniques to synthetic stock data. Used Python, Pandas, and ARIMA models to detect trends and simulate trading strategies.
 
-- 📈 **[Data Analysis for Financial Time Series](https://github.com/AtifElmasry/Data-Analysis-for-Financial-Time-Series)**  
-  *Analyzed stock performance using time series techniques and visualized trends.*
+- 🏙️ **[German Airbnb Market Analysis](https://github.com/AtifElmasry/berlin_airbnb_market_analysis)**  
+  Cleaned and analyzed Berlin Airbnb data to uncover pricing dynamics and high-demand neighborhoods. Used Pandas, Seaborn, and mapping tools to visualize insights.
 
-- 🌍 **[Multivariate Sector Price Prediction](https://github.com/AtifElmasry/Multivariate-sector-price-prediction-using-macroeconomic-indicators)**  
-  *Built predictive models using macroeconomic indicators.*
+- 📉 **[COVID-19 Economic Impact Analysis](https://github.com/AtifElmasry/COVID19-Business-Impact-Analysis)**  
+  Investigated the effect of the pandemic on various sectors using open datasets. Built visual dashboards with Plotly and Jupyter to highlight trends.
 
-- 🧪 **[Molecule and Drug Discovery for Diseases](https://github.com/AtifElmasry/Molecule-and-drug-Discovery-Application-For-Three-Diseases)**  
-  *Worked with biomedical data to support early-stage research.*
+- 🧠 **[AI-Powered Study Buddy](https://github.com/AtifElmasry/study-buddy-ai)**  
+  Developed a chatbot that assists with studying using OpenAI's API and Streamlit. Focused on user input processing, topic summarization, and real-time feedback.
+
+- 🏗️ **[Designing a PostgreSQL Database](https://github.com/AtifElmasry/designing-a-database-from-scratch)**  
+  Created a normalized relational database from scratch using PostgreSQL. Included schema design, relationships, and sample queries for a book rental system.
+
+
 
 ---
 
