@@ -45,6 +45,9 @@ I bring together analytical thinking, visualization skills, and a strong technic
 
 Here are a few projects that showcase my work in data analytics, machine learning, and scientific research:
 
+- 🛒 **[E-Commerce Sales Insights with PostgreSQL](https://github.com/AtifElmasry/E-Commerce-Sales-Insights-with-PostgreSQL)**  
+Designed and queried a mock e-commerce database from scratch using PostgreSQL. Extracted business insights around customer behavior, product performance, sales trends, and marketing impact. Included interactive dashboards and visualizations.
+  
 - 📈 **[Time Series Forecasting & Analysis of US Financial Markets](https://github.com/AtifElmasry/Time-Series-Forecasting-and-Analysis-of-US-Financial-Markets)**  
   Analyzed synthetic stock data using autocorrelation, feature correlations, and stationarity testing. Built forecasting models and visualized patterns using Python and Jupyter.
 
