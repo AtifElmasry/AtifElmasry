@@ -12,7 +12,8 @@ I bring together analytical thinking, visualization skills, and a strong technic
 
 ### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tioatifelmasry/)  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hey-there-I-am-Atif-1f3c40f7655e80d5b4f1dec9c016cadb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tioatifelmasry/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Hey-there-I-am-Atif-1f3c40f7655e80d5b4f1dec9c016cadb)
 
 ---
 
