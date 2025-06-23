@@ -45,13 +45,13 @@ I bring together analytical thinking, visualization skills, and a strong technic
 
 Here are some selected projects that highlight my work in data analysis, business intelligence, and science — with real-world impact.
 
-#### ⭐ Zalando Case Studies
+#### ⭐ Performance Marketing Case Studies
 
 - 📊 **[Cookie Performance Marketing Case Study](https://github.com/AtifElmasry/cookie-performance-marketing-case-study)**  
   Simulated campaign performance of cookie brands across EU markets. Calculated KPIs like ROAS, CAC, and profit across countries, and delivered actionable marketing insights using Python, Seaborn, and storytelling.  
 
 - 🧪 **[Ad Bidding A/B Test Analysis](https://github.com/AtifElmasry/ad-bidding-ab-test-zalando-case-study)**  
-  A/B tested two ad bidding strategies using SQL. Analyzed CTR, CVR, ROAS, and CAC across treatment groups to support marketing strategy decisions. Built with performance marketers in mind.
+  Analyzed two bidding strategies in an A/B test using SQL. Compared key marketing KPIs — CTR, CVR, ROAS, and CAC to help guide campaign optimization decisions.  
   👉 [Read full case study on Notion](https://shard-rainforest-901.notion.site/AB-Performane-210c40f7655e80f79a58dfc6d9a2b1d9)
 
 ---
