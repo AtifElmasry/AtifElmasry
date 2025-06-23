@@ -49,10 +49,10 @@ Here are some selected projects that highlight my work in data analysis, busines
 
 - 📊 **[Cookie Performance Marketing Case Study](https://github.com/AtifElmasry/cookie-performance-marketing-case-study)**  
   Simulated campaign performance of cookie brands across EU markets. Calculated KPIs like ROAS, CAC, and profit across countries, and delivered actionable marketing insights using Python, Seaborn, and storytelling.  
-  👉 [Read full case study on Notion](https://www.notion.so/Cookie-Performance-Marketing-Case-Study-8f7a28e31aa8486ab9d04b6df72c4cfd)
 
 - 🧪 **[Ad Bidding A/B Test Analysis](https://github.com/AtifElmasry/ad-bidding-ab-test-zalando-case-study)**  
   A/B tested two ad bidding strategies using SQL. Analyzed CTR, CVR, ROAS, and CAC across treatment groups to support marketing strategy decisions. Built with performance marketers in mind.
+  👉 [Read full case study on Notion](https://shard-rainforest-901.notion.site/AB-Performane-210c40f7655e80f79a58dfc6d9a2b1d9)
 
 ---
 
@@ -73,9 +73,6 @@ Here are some selected projects that highlight my work in data analysis, busines
 
 - 🏔️ **[Isotope-Elevation Analysis](https://github.com/AtifElmasry/isotope-elevation-analysis)**  
   Studied the relationship between elevation and δ¹⁸O in precipitation using R. Applied regression, slope correction, and diagnostics to understand paleoclimate signals.
-
-- ❄️ **[Snow Isotope Simulation](https://github.com/AtifElmasry/Snow-Isotope-Simulation)**  
-  Simulated snow isotope changes across topography in Antarctica using Python. Connected spatial datasets with climate modeling.
 
 ---
 
