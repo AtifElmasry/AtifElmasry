@@ -43,25 +43,49 @@ I bring together analytical thinking, visualization skills, and a strong technic
 
 ### 🔍 Featured Projects
 
-Here are a few projects that showcase my work in data analytics, machine learning, and scientific research:
+Here are some selected projects that highlight my work in data analysis, business intelligence, and science — with real-world impact.
+
+#### ⭐ Zalando Case Studies
+
+- 📊 **[Cookie Performance Marketing Case Study](https://github.com/AtifElmasry/cookie-performance-marketing-case-study)**  
+  Simulated campaign performance of cookie brands across EU markets. Calculated KPIs like ROAS, CAC, and profit across countries, and delivered actionable marketing insights using Python, Seaborn, and storytelling.  
+  👉 [Read full case study on Notion](https://www.notion.so/Cookie-Performance-Marketing-Case-Study-8f7a28e31aa8486ab9d04b6df72c4cfd)
+
+- 🧪 **[Ad Bidding A/B Test Analysis](https://github.com/AtifElmasry/ad-bidding-ab-test-zalando-case-study)**  
+  A/B tested two ad bidding strategies using SQL. Analyzed CTR, CVR, ROAS, and CAC across treatment groups to support marketing strategy decisions. Built with performance marketers in mind.
+
+---
+
+#### 🧠 Business & Technical Projects
 
 - 🛒 **[E-Commerce Sales Insights with PostgreSQL](https://github.com/AtifElmasry/E-Commerce-Sales-Insights-with-PostgreSQL)**  
-Designed and queried a mock e-commerce database from scratch using PostgreSQL. Extracted business insights around customer behavior, product performance, sales trends, and marketing impact. Included interactive dashboards and visualizations.
-  
-- 📈 **[Time Series Forecasting & Analysis of US Financial Markets](https://github.com/AtifElmasry/Time-Series-Forecasting-and-Analysis-of-US-Financial-Markets)**  
-  Analyzed synthetic stock data using autocorrelation, feature correlations, and stationarity testing. Built forecasting models and visualized patterns using Python and Jupyter.
+  Created a mock e-commerce database, ran SQL queries to analyze product performance, sales trends, and marketing impact. Included dashboard-ready insights and customer segmentation.
 
 - 🔁 **[Customer Churn Analysis](https://github.com/AtifElmasry/customer_churn_data)**  
-  Explored customer churn behavior through EDA, segmentation, and machine learning (Random Forest). Delivered actionable insights with Python visualizations.
+  Investigated churn behavior through segmentation and Random Forest models. Identified key churn drivers and visualized patterns using Python and pandas.
+
+- 📈 **[Time Series Forecasting of US Financial Markets](https://github.com/AtifElmasry/Time-Series-Forecasting-and-Analysis-of-US-Financial-Markets)**  
+  Used time series models to analyze synthetic stock market data. Included autocorrelation, feature engineering, and ARIMA forecasting.
+
+---
+
+#### 🌍 Scientific & Remote Sensing Projects
 
 - 🏔️ **[Isotope-Elevation Analysis](https://github.com/AtifElmasry/isotope-elevation-analysis)**  
-  Investigated the relationship between oxygen isotope values (δ¹⁸O) and elevation using regression models in R. Applied slope correction and residual diagnostics for paleoclimate insight.
+  Studied the relationship between elevation and δ¹⁸O in precipitation using R. Applied regression, slope correction, and diagnostics to understand paleoclimate signals.
 
-- 🤖 **[Snap-Fit Robots Assembly Guide](https://github.com/AtifElmasry/snapfit-robots-assembly)**  
-  Created reproducible, step-by-step assembly documentation for robot kits. Practiced technical writing and instructional design using structured R Markdown.
+- ❄️ **[Snow Isotope Simulation](https://github.com/AtifElmasry/Snow-Isotope-Simulation)**  
+  Simulated snow isotope changes across topography in Antarctica using Python. Connected spatial datasets with climate modeling.
+
+---
+
+#### ⚙️ Creative & Fun Projects
 
 - 🐾 **[Manhattan Zoo Meal Planner](https://github.com/AtifElmasry/Manhattan-Zoo)**  
-  Designed dietary guidelines for zoo animals based on species, weight, and feeding frequency. Demonstrated data handling and rule-based logic in R.
+  Created a rule-based meal planning tool for zoo animals based on species and feeding rules. A fun logic challenge built with R.
+
+- 🤖 **[Snap-Fit Robots Assembly Guide](https://github.com/AtifElmasry/snapfit-robots-assembly)**  
+  Wrote reproducible robot kit assembly steps using R Markdown. Practiced clear, instructional documentation with structure.
 
 ---
 
