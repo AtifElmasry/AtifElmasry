@@ -6,7 +6,7 @@ I bring together analytical thinking, visualization skills, and a strong technic
 - 🎓 M.Sc. in Remote Sensing & GIS, University of Potsdam (2025)
 - 📊 Currently diving deep into business & product analytics projects
 - 🌍 Passionate about geospatial analysis, business intelligence, and storytelling with data
-- 💼 Former researcher at the **Alfred-Wegener-Institute** & analyst at **Petropel**
+- 💼 Experience as a researcher at the **Alfred-Wegener-Institute** & analyst at **Petropel**
 
 ---
 
